@@ -1,0 +1,13 @@
+{
+    "Index": {
+        "title": "Hello world!"
+    },
+    "Header": {
+        "home": "Home",
+        "about": "About",
+        "porto": "Portfolio",
+        "services": "Services",
+        "blog": "Blog",
+        "contact": "Reach Us"
+    }
+}

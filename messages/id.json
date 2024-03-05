@@ -1,0 +1,13 @@
+{
+    "Index": {
+        "title": "Halo Dunia!"
+    },
+    "Header": {
+        "home": "Beranda",
+        "about": "Tentang",
+        "porto": "Portofolio",
+        "services": "Layanan",
+        "blog": "Blog",
+        "contact": "Hubungi Kami"
+    }
+}
